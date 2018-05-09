@@ -4,6 +4,10 @@ This document maintains a list of changes to the `slate-react` package with each
 
 ---
 
+### `0.12.1`
+
+* Improve performance of decorations https://github.com/ianstormtaylor/slate/pull/1801
+
 ### `0.12.0` — February 21, 2018
 
 ###### BREAKING

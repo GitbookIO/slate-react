@@ -4,6 +4,10 @@ This document maintains a list of changes to the `slate-react` package with each
 
 ---
 
+### `0.12.7-0`
+
+* Fix insert fragment https://github.com/GitbookIO/slate/pull/7
+
 ### `0.12.6`
 
 * Improve performance of decorations https://github.com/ianstormtaylor/slate/pull/1801

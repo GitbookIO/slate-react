@@ -38,7 +38,7 @@
   "devDependencies": {
     "immutable": "^3.8.1",
     "mocha": "^2.5.3",
-    "slate": "git+ssh://git@github.com/GitbookIO/slate-core.git#^0.33.7-1",
+    "slate": "GitbookIO/slate-core#^0.33.7-1",
     "slate-hyperscript": "^0.5.12",
     "slate-simulator": "^0.4.29"
   },
